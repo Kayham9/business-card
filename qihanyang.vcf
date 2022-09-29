@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Yang;Qihan;;;
+FN:Qihan Yang
+ORG:
+ADR;TYPE=WORK:
+TITLE:Student @ Central Saint Martins
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:hello@qihanyang.com
+URL;TYPE=Digital Business Card:
+URL:https://www.qihanyang.com
+URL;TYPE=Website:https://www.qihanyang.com
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100097805
+END:VCARD
